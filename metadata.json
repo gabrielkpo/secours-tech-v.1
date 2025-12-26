@@ -1,0 +1,10 @@
+
+{
+  "name": "Gemini Chat Pro",
+  "description": "Interface de chat intelligente prête pour le déploiement Vercel.",
+  "requestFramePermissions": [],
+  "deployment": {
+    "platform": "vercel",
+    "env": ["API_KEY"]
+  }
+}
